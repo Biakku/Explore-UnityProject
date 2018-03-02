@@ -2,6 +2,7 @@
 O samym projekcie:
 Gra wykonana w Unity będzie kooperacyjną platformówką 2D online, z elementami RPG. 
 
+![alt text](http://i64.tinypic.com/ddyvll.png)
 Kolejność tworzenia elementów projektu:
 
 * Stworzenie menu umożliwiające zmianę głośności, uzyskanie pomocy, jak i wejście w grę.
