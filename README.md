@@ -2,7 +2,7 @@
 O samym projekcie:
 Gra wykonana w Unity będzie kooperacyjną platformówką 2D online, z elementami RPG. 
 
-![alt text](http://i64.tinypic.com/ddyvll.png)
+![alt text](https://s18.postimg.org/o72e2n715/Bez_tytu_u.png)
 
 Kolejność tworzenia elementów projektu:
 
